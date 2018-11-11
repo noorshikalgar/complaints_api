@@ -1,0 +1,32 @@
+[
+    {
+        "id": "1",
+        "user": "User1",
+        "complaint_body": "This is the complaint of the user1"
+    },
+    {
+        "id": "2",
+        "user": "User2",
+        "complaint_body": "This is the complaint of the user2"
+    },
+    {
+        "id": "3",
+        "user": "User3",
+        "complaint_body": "This is the complaint of the user3"
+    },
+    {
+        "id": "4",
+        "user": "User4",
+        "complaint_body": "This is the complaint of the user4"
+    },
+    {
+        "id": "5",
+        "user": "User5",
+        "complaint_body": "This is the complaint of the user5"
+    },
+    {
+        "id": "6",
+        "user": "User6",
+        "complaint_body": "This is the complaint of the user6"
+    }
+]
